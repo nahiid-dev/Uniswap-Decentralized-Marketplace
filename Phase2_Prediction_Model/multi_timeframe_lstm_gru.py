@@ -322,7 +322,8 @@ def main():
         )
         return
 
-    timeframes = {"1h": "1 Hour", "4h": "4 Hours", "1d": "1 Day"}
+    # timeframes = {"1h": "1 Hour", "4h": "4 Hours", "1d": "1 Day"}
+    timeframes = {"15min": "15 Minutes"}
     seq_length = 50  # Sequence length for LSTM/GRU
     results = {}  # To store evaluation results
 

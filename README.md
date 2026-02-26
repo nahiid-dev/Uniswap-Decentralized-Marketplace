@@ -1,5 +1,4 @@
-﻿# Uniswap-Decentralized-Marketplace_test
-# Uni-Dex-Marketplace_test
+﻿# Uniswap-Decentralized-Marketplace
 
 # 🧠 Predictive vs Baseline Liquidity Manager
 

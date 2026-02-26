@@ -4,7 +4,7 @@
 
 ## 📁 Project Overview: Comparing Baseline and Predictive Liquidity Management Strategies
 
-This project is designed to simulate and compare two liquidity provisioning strategies on Uniswap V3:
+This project is designed to simulate and compare two liquidity provisioning strategies on Uniswap V3  :
 
 - **Baseline Strategy**: A simple approach that adjusts liquidity based on the current spot price from the Uniswap pool.
 - **Predictive Strategy**: A smarter method that leverages predicted prices (e.g., from an external LSTM-based API) to proactively reposition liquidity.
